@@ -7,5 +7,7 @@ This project applies the Max-Flow Min-Cut Theorem to segment grayscale images by
 Key Files
 
 •	Optimization_project1 (2).ipynb: Contains the implementation of the segmentation algorithm using the max-flow min-cut theorem, including the necessary imports, image processing, and Gurobi optimization steps.
+
 •	Optimization Project 1.pdf: A detailed report explaining the background, theory, and implementation of the segmentation algorithm, including images, code chunks, and graphs. The report is written from the perspective of a startup competing with Photoshop and outlines the benefits and limitations of using this method for image segmentation.
+
 •	example_images/: A folder containing example grayscale images (box.csv, oval-1.csv, and additional synthetic images) that can be used to test the algorithm.
